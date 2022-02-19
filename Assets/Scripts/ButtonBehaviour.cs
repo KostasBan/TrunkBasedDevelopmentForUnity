@@ -4,7 +4,7 @@ public class ButtonBehaviour : MonoBehaviour
 {
     public void OnButtonClick()
     {
-        Debug.Log("Hello World from Issue-3");
+        Debug.Log("Hello World");
     }
 
     public void OnButtonClick2()
